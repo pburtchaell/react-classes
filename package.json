@@ -1,7 +1,7 @@
 {
-  "name": "react-class",
+  "name": "react-classes",
   "version": "1.0.0",
-  "description": "A small wrapper for the React class addon",
+  "description": "A small wrapper and mixin for the React class addon",
   "main": "index.js",
   "scripts": {
     "test": "echo"
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pburtchaell/react-class/issues"
   },
-  "homepage": "https://github.com/pburtchaell/react-class"
+  "homepage": "https://github.com/pburtchaell/react-class",
+  "dependencies": {
+    "react": "^0.12.2"
+  }
 }
