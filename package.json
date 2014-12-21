@@ -1,6 +1,6 @@
 {
   "name": "react-classes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small wrapper and mixin for the React class addon",
   "main": "index.js",
   "scripts": {
