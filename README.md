@@ -4,7 +4,7 @@
 
 ## Overview
 
-This module adds additional functionality to `classSet`, allowing a base className to be specified.
+This module adds additional functionality to [class name manipulation](http://facebook.github.io/react/docs/class-name-manipulation.html) in React by allowing a base class to be specified.
 
 ## Example
 
@@ -46,8 +46,6 @@ module.exports = React.CreateClass({
   mixins: [classes],
 
 ```
-
-## Issues 
 
 ---
 Built with care in New Orleans by Patrick Burtchaell.
