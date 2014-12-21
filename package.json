@@ -1,0 +1,25 @@
+{
+  "name": "react-class",
+  "version": "1.0.0",
+  "description": "A small wrapper for the React class addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pburtchaell/react-class"
+  },
+  "keywords": [
+    "react",
+    "class",
+    "front end",
+    "ui"
+  ],
+  "author": "Patrick Burtchaell <patrick@pburtchaell.com> (http://pburtchaell.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pburtchaell/react-class/issues"
+  },
+  "homepage": "https://github.com/pburtchaell/react-class"
+}
