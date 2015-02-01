@@ -1,4 +1,5 @@
-# react-classes
+# react-classes [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
+[![devDependency Status](https://david-dm.org/alanshaw/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
 
 > A small wrapper for `React.addons.classSet`
 
