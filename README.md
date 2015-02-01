@@ -1,4 +1,4 @@
-# react-classes [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
+# react-classes [![npm version](https://badge.fury.io/js/react-classes.svg)](http://badge.fury.io/js/react-classes) [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
 
 > A small wrapper for `React.addons.classSet`
 
