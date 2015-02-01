@@ -11,7 +11,7 @@ module.exports = {
    * @function getClass
    * @param {object} initial
    * @param {object} additional
-   * @returns {object} 
+   * @returns {object}
    */
   getClass: function (initial, additional) {
 
@@ -22,7 +22,7 @@ module.exports = {
       classString += ' ' + this.props.className;
     }
 
-    /** 
+    /**
      * Add in initial classes
      */
     if (typeof initial === 'object') {
@@ -32,7 +32,7 @@ module.exports = {
     }
 
     /**
-     * If there is additional classes, then 
+     * If there is additional classes, then
      * add them to the classSet as well.
      */
     if (additional) {
