@@ -12,9 +12,10 @@
   },
   "keywords": [
     "react",
+    "mixin",
+    "mixins",
     "class",
-    "front end",
-    "ui"
+    "classes"
   ],
   "author": "Patrick Burtchaell <patrick@pburtchaell.com> (http://pburtchaell.com/)",
   "license": "MIT",
