@@ -2,6 +2,8 @@
 
 > A small wrapper for `React.addons.classSet`
 
+**WARNING: This module is no longer actively maintained. As of React version 0.13.0, `React.addons.classSet` is depreciated and as of React version 0.14.0, addons are no longer a part of the React core. I would reccommend using the [classnames](https://www.npmjs.com/package/classnames) module instead.**
+
 ## Overview
 
 This module adds additional functionality to [class name manipulation](http://facebook.github.io/react/docs/class-name-manipulation.html) in React by allowing a base class to be specified.
