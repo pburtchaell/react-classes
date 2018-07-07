@@ -1,8 +1,15 @@
-# react-classes [![npm version](https://badge.fury.io/js/react-classes.svg)](http://badge.fury.io/js/react-classes) [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
+# React Classes
 
-> A small wrapper for `React.addons.classSet`
+[![npm version](https://badge.fury.io/js/react-classes.svg)](http://badge.fury.io/js/react-classes) [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
 
-**WARNING: This module is no longer actively maintained. As of React version 0.13.0, `React.addons.classSet` is deprecated and as of React version 0.14.0, addons are no longer a part of the React core. I would reccommend using the [classnames](https://www.npmjs.com/package/classnames) module instead.**
+
+## Warning
+
+As of 2018 August 18, this project is depreciated and unmaintained.
+
+In React version 0.13.0, `React.addons.classSet` was depreciated and in React version 0.14.0, add-ons were removed from the React package.
+
+I would recommend the [classnames](https://www.npmjs.com/package/classnames) package as a replacement.
 
 ## Overview
 
