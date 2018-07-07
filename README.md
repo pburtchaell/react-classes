@@ -2,7 +2,6 @@
 
 [![npm version](https://badge.fury.io/js/react-classes.svg)](http://badge.fury.io/js/react-classes) [![Dependency Status](https://david-dm.org/pburtchaell/react-classes.svg)](https://david-dm.org/pburtchaell/react-classes)
 
-
 ## Warning
 
 As of 2018 August 18, this project is depreciated and unmaintained.
